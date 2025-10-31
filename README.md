@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 
 bash
 # 1️⃣ Clone the repository
-git clone [https://github.com/yourusername/todo-list-react.git](https://github.com/Mustafiyasiddiqui/TodoList-Using-State-React.git)
+git clone https://github.com/Mustafiyasiddiqui/TodoList-Using-State-React.git
 
 # 2️⃣ Navigate into the project directory
 cd todo-list-react
