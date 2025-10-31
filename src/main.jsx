@@ -3,9 +3,11 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import TodoList from "./TodoList.jsx";
+import LotteryTicket from "./LotteryTicket.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <TodoList />
+    {/* <TodoList /> */}
+    <LotteryTicket />
   </StrictMode>
 );
