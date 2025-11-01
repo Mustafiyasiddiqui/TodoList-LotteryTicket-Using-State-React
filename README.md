@@ -3,6 +3,7 @@
 This repository contains two simple yet fun React projects:  
 1. 📝 **Todo List** — Manage your daily tasks with add/delete features.  
 2. 🎟️ **Lottery Ticket Generator** — Generate random 3-digit tickets and test your luck!
+3. 🎟️ **Lottery Ticket Generator (Array Version)**
 
 Both components are built using React Hooks (`useState`) and are perfect for beginners learning about component-based design and state management.
 
@@ -23,6 +24,12 @@ Both components are built using React Hooks (`useState`) and are perfect for beg
 - 🏆 Displays a **winning message** if the sum equals 15  
 - 🔁 Allows you to generate new tickets anytime  
 - 🎉 Clean, simple, and interactive UI
+
+### 🎟️ Lottery Ticket Generator (Array Version)
+Generate random 3-digit lottery tickets and test your luck!  
+- 🎲 Uses arrays and `useState` for dynamic ticket generation  
+- 🏆 Displays winning messages when conditions are met  
+- ⚡ Demonstrates prop passing and reusable component patterns
 
 
 
